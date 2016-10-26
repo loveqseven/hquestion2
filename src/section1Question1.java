@@ -40,8 +40,6 @@ public class section1Question1 {
 
         Arrays.sort(c1);
         Arrays.sort(c2);
-//        System.out.println(c1);
-//        System.out.println(c2);
         return Arrays.equals(c1, c2);
 
     }
